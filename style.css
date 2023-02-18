@@ -1,0 +1,6 @@
+h1, p {
+  font-family: Lato;
+}
+
+.header{ background: #ddd }
+.logout-btn{ margin-top: 5px;}
